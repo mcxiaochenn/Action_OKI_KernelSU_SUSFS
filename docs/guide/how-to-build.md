@@ -10,7 +10,7 @@
 
 直接[Fork本项目](https://github.com/mcxiaochenn/Action_OKI_KernelSU_SUSFS/fork)
 
-然后点击你Fork来的仓库，选择Acetons并选择你需要构建的机型SOC型号，点击**Run workflow**，选择你需要构建的机型，点击**Run workflow**，等待约一小时即可收获编译好的AK3文件。
+然后点击你Fork来的仓库，选择Actions并选择你需要构建的机型SOC型号，点击**Run workflow**，选择你需要构建的机型，点击**Run workflow**，等待约一小时即可收获编译好的AK3文件。
 
 ## 手动构建
 
